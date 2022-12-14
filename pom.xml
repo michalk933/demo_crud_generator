@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<freemarker.version>2.3.28</freemarker.version>
-		<yaml.version>1.23</yaml.version>
+		<yaml.version>1.32</yaml.version>
 	</properties>
 
 	<dependencies>
